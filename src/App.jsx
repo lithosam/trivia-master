@@ -286,4 +286,4 @@ const styles = {
   statsGrid: { display: "flex", gap: 16, width: "100%" },
   statItem: { flex: 1, background: "rgba(255,255,255,0.04)", borderRadius: 10, padding: "14px", textAlign: "center" },
   statNum: { fontSize: 24, fontWeight: "bold", color: "#a080ff" },
-  statLbl: { color: "rgba(255,255,255,0.4)", fontSize: 11, marginTop: 4 },
+  statLbl: { color: "rgba(255,255,255,0.4)", fontSize: 11, marginTop: 4 };
