@@ -177,7 +177,10 @@ export default function TriviaQuiz() {
         <button onClick={startGame} style={styles.startBtn}>🔄 Play Again</button>
       </div>
       <style>{css}</style>
-    </div>return (
+    </div>
+  );
+
+  return (
     <div style={styles.root}>
       <div style={styles.card}>
         <div style={styles.progressRow}>
