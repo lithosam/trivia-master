@@ -286,4 +286,3 @@ const styles = {
   statNum: { fontSize: 24, fontWeight: "bold", color: "#a080ff" },
   statLbl: { color: "rgba(255,255,255,0.4)", fontSize: 11, marginTop: 4 },
 };
-  );
